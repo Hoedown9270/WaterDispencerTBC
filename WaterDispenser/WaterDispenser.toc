@@ -1,0 +1,11 @@
+## Interface: 20501
+## Title: Water Dispenser
+## Notes: Automatic fill trade-window 
+## Version: 1.11
+## Author: GPI / Erytheia-Razorfen - Ported to TBC by Hoedown
+## DefaultState: enabled
+## SavedVariablesPerCharacter: WaterDispenserDB
+LibGPIToolBox.lua
+LibGPIOptions.lua
+Localization.lua
+WaterDispenser.lua
